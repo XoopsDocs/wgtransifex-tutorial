@@ -8,6 +8,8 @@
 
 ![](.gitbook/assets/logomodule.png)
 
+![](.gitbook/assets/wgtransifex.jpg)
+
 ### User Manual
 
 © 2020 XOOPS Project \([www.xoops.org](https://xoops.org)\)
