@@ -22,8 +22,5 @@
 * [The User Side](5userside.md)
 * [Blocks](6blocks.md)
 * [Templates](7templates.md)
-* [Miscellaneous](80other.md)
-* [DB Tables](81db.md)
-* [UML Classes](82uml.md)
 * [Module Credits](9credits.md)
 * [About XOOPS CMS](10aboutxoops.md)
