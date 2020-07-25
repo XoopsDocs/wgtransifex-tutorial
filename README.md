@@ -14,6 +14,8 @@
 
 ### Module Purpose
 
+This module is especially developed for the translators of XOOPS modules and core.
+ 
 This module is for downloading translations from Transifex, and downloaded files can be provided as a language package.
 
 ![](.gitbook/assets/2dashboard.jpg)
