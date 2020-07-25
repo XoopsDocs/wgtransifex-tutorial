@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Quickstart](11quickstart.md)
 * [Install/Uninstall](1install.md)
 * [Administration Menu](2administration/README.md)
   * [Dashbord](2administration/dashbord.md)
