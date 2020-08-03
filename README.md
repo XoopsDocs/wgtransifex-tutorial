@@ -17,9 +17,19 @@
 ### Module Purpose
 
 This module is especially developed for the translators of XOOPS modules and core.
- 
-This module is for downloading translations from Transifex, and downloaded files can be provided as a language package.
 
+Besides a lot of advantages Transifex have the disadvantage that you have to download the translated files one by one.
+ 
+You have to create the necessary folders yourself and you have to partially rename the files and to save them in the right folders.
+ 
+This module is:
+  * downloading translations from Transifex
+  * renaming the files if necessary
+  * creating the folder structure
+  * saving the files in the forseen folder
+  * creating a zip-file
+  
+Therefore downloaded files can be easily provided as a language package.
 ![](.gitbook/assets/2dashboard.jpg)
 
 _Figure 1: Main view of the wgTransifex \(Admin side\)_
