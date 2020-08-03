@@ -27,3 +27,5 @@ In the various tabs of wgTransifex you can find the status of a project, a resou
 ![](../.gitbook/assets/status11.png) New from Transifex
 
 ![](../.gitbook/assets/status12.png) Pending
+
+![](../.gitbook/assets/status13.png) Local data

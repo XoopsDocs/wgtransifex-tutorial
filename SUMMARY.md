@@ -17,6 +17,7 @@
   * [About](2administration/about.md)
   * [Help](2administration/help.md)
   * [Status](2administration/status.md)
+  * [Tools for TX Admins](2administration/toolstxadmins.md)
 * [Preferences](3preferences.md)
 * [Operating Instructions](4operations.md)
 * [The User Side](5userside.md)
