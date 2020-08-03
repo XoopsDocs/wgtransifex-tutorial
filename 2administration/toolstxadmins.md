@@ -15,7 +15,11 @@ In order to activate/show the tools set in preferences 'Show Tx Admin Tools' to 
 
 ### Projects
 
-On tab 'Projects' you find now the possibility to copy resource data from one project to another or a new one.
+On tab 'Projects' you find now the possibility
+
+   * ![](../.gitbook/assets/clone.png) to copy resource data from one project to another one
+   * ![](../.gitbook/assets/clonenew.png) to copy resource data from one project to a new one
+   * ![](../.gitbook/assets/resources_read.png) to read all files of english language folder from a moduleas resource data 
 
 ![](../.gitbook/assets/txtools01.jpg)
 
