@@ -6,14 +6,31 @@ Basically it would be possible to create also the project itself, but as we need
 
 Transifex admins have the possibility to define the resources for a project locally and upload all the files in bulk. Therefore it isn't necessary to do this manually file by file.
 
+## Quickstart
 
-## Preferences
+* Create new project on Transifex
+* Download project on tab 'project' and set status to ![](../.gitbook/assets/status13.png)'local data'
+* for module translation 
+  * click on ![](../.gitbook/assets/resources_read.png) 'Read resources of existing module'
+  * data check will be done automatically
+* for XOOPS Core translation
+  * ![](../.gitbook/assets/clone.png) copy resource data from previous XOOPS Core translation
+  * start ![](../.gitbook/assets/uploadtxtest.png) upload data check on tab resources
+* if necessary adapt data
+* ![](../.gitbook/assets/uploadtx.png) upload resources to Transifex
+
+Done.
+
+
+## Detailed Instructions
+
+### Preferences
 
 In order to activate/show the tools set in preferences 'Show Tx Admin Tools' to 'Yes'. Activate only, if you have admin permission in Transifex, otherwise the procedures running into an error.
 
-## Tools
+### Tools
 
-### Projects
+#### Projects
 
 On tab 'Projects' you find now the possibility
 
@@ -29,7 +46,7 @@ The new local project must have status ![](../.gitbook/assets/status13.png) 'Loc
 
 All files must exist in your current XOOPS environment.
 
-### Resources
+#### Resources
 
 On tab 'Resources' you find now the possibility to test the resources and to upload the resources.
 
